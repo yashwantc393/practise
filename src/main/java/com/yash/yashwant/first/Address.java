@@ -12,7 +12,7 @@ public class Address {
     private String state;
 
     public String getHouseNo() {
-        return houseNo;
+        return  houseNo;
     }
 
     public void setHouseNo(String houseNo) {
